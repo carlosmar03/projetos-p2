@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Tahoma", sans-serif;
+}
+.cabecalho {
+  width: 800px;
+  margin: auto;
+}
+.cabecalho li {
+  display: inline;
+  padding: 2px 20px;
+}
